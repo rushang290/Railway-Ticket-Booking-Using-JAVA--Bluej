@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RailwayReservation_1
+comment1.params=
+comment1.target=void\ doMenu()
+comment2.params=
+comment2.target=int\ doHeading()
+comment3.params=trno
+comment3.target=void\ doBook(int)
+comment4.params=trno
+comment4.target=void\ doCancel(int)
+comment5.params=trno
+comment5.target=void\ doDispList(int)
+comment6.params=trno
+comment6.target=void\ doSearch(int)
+comment7.params=trno
+comment7.target=void\ doDispUnbooked(int)
+comment8.params=
+comment8.target=void\ doExit()
+numComments=9
